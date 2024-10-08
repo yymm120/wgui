@@ -1,6 +1,6 @@
 {
   "name": "@wgui/transformer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cross-platform UI component library. (Trial stage). The goal is to display desktop ui component and web ui component in a unified manner.",
   "main": "index.js",
   "license": "MIT",
